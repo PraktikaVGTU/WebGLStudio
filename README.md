@@ -1,1 +1,1 @@
-# WebGLStudio
+WebGLStudio Javascript animacijų kodai.
