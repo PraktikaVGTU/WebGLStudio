@@ -1,4 +1,4 @@
-//WebGLStudio kodas, aukštyn ir žemyn judančios sferos paprastai animacijai sukurti.
+//WebGLStudio kodas, aukštyn ir žemyn judančio objekto paprastai animacijai sukurti.
 
 defined: component, node, scene, transform, globals
 this.onStart = function()
