@@ -1,5 +1,6 @@
-//************** BASE TOOLS *******************************
+//WebGLStudio kodas aprašantis mygtukus, esantis webglstudio\editor\js\tools\
 
+//************** BASE TOOLS *******************************
 
 //******* BUTTONS ******************************
 
