@@ -1,1 +1,1 @@
-WebGLStudio Javascript animacijų kodai.
+failai, susiję su WebGLStudio.
