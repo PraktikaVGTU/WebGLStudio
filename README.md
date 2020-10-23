@@ -1,1 +1,1 @@
-failai, susiję su WebGLStudio.
+WebGLStudio programos failai.
