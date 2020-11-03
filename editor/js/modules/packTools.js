@@ -1,13 +1,13 @@
 var PackTools = {
 	name:"PackTools",
-
+	/*
 	init: function()
 	{
 		LiteGUI.menubar.add("Node/Create Prefab", { callback: function() { PackTools.showCreatePrefabDialog(); }} );
 		LiteGUI.menubar.add("Node/Link to Prefab", { callback: function() { PackTools.showLinkToPrefabDialog(); }} );
 		LiteGUI.menubar.add("Actions/Create Pack", { callback: function() { PackTools.showCreatePackDialog(); }} );
 	},
-
+	*/
 	showCreatePrefabDialog: function( node )
 	{
 		node = node || SelectionModule.getSelectedNode();
