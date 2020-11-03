@@ -1,13 +1,13 @@
 var TextureTools = {
 	name: "TextureTools",
-	/*
+	 /*
 	init: function()
 	{
 		LiteGUI.menubar.add("Actions/Texture Tools", { callback: function() { 
 			TextureTools.showToolsDialog();
 		}});
 	},
-	*/
+	 */
 	showToolsDialog: function( texture_name )
 	{
 		if(this.dialog)
