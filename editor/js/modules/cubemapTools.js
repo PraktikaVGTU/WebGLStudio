@@ -6,12 +6,12 @@ var CubemapTools = {
 
 	current_cubemap: null,
 	preview_in_viewport: false,
-
+	/*
 	init: function()
 	{
 		LiteGUI.menubar.add("Actions/Cubemap tools", { callback: function() { CubemapTools.showDialog(); }});
 	},
-
+	*/
 	showDialog: function()
 	{
 		var dialog = null;
