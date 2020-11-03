@@ -12,7 +12,7 @@ var PluginsModule = {
 		addons: { repository_url: "", list: [] },
 		plugins: { repository_url: "", list: [] } 
 	},
-
+	/*
 	init: function()
 	{
 		var mainmenu = LiteGUI.menubar;
@@ -33,7 +33,7 @@ var PluginsModule = {
 			.scripts_container .user_script.selected .title { color: #ddd; !important }\n\
 		");
 	},
-
+	*/
 	//called by core after loading the preferences from localStorage
 	//restores preferences for plugins
 	onPreferencesLoaded: function()
