@@ -23,7 +23,7 @@ var PlayModule = {
 		render_play_border: true,
 		restore_state_after_play: true
 	},
-
+	/*
 	init: function()
 	{
 		LiteGUI.addCSS("\
@@ -32,7 +32,7 @@ var PlayModule = {
 			#play-tools button.enabled { background: #AEE !important;} \
 			#restore-button { background: #944 !important;} \
 		");
-
+		*/
 		//Register in CanvasManager to render the border on playmode
 		RenderModule.canvas_manager.addWidget( PlayModule, 10 );
 
